@@ -163,5 +163,7 @@ One of the issues was in labeling round numbers. The round 1 label sometimes pic
 ![zombie_detection_example](pics/zombies_7.png)
 ![zombie_detection_example](pics/zombies_8.png)
 
-<video src="pics/zombies_detection_1.mp4" width="1280" height="720" controls>
+<video width="320" height="240" controls>
+  <source src="https://github.com/DavidTWynn/nazi_zombies_ai_object_detection/blob/master/pics/zombies_detection_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
