@@ -162,5 +162,6 @@ One of the issues was in labeling round numbers. The round 1 label sometimes pic
 ![zombie_detection_example](pics/zombies_6.png)
 ![zombie_detection_example](pics/zombies_7.png)
 ![zombie_detection_example](pics/zombies_8.png)
-<video src="pics\zombies_detection_1.mp4" width="1280" height="720" controls>
+
+<video src="pics/zombies_detection_1.mp4" width="1280" height="720" controls>
 </video>
