@@ -5,7 +5,7 @@
 ![Environment](https://img.shields.io/badge/Environment-Windows-blue)
 ![Coding style](https://img.shields.io/badge/code%20style-black-000000.svg)
 
-![zombie_detection_example](pics\zombies_1.png)
+![zombie_detection_example](pics/zombies_1.png)
 
 Experimenting with YOLOv8 Object Detection to detect objects in Call of Duty: World at War - Nazi Zombies. The current YOLOv8 model was only trained on Nacht der Untoten with about 843 training images and 94 validation images.
 
@@ -154,13 +154,13 @@ One of the issues was in labeling round numbers. The round 1 label sometimes pic
 
 # Detection Examples:
 
-![zombie_detection_example](pics\zombies_1.png)
-![zombie_detection_example](pics\zombies_2.png)
-![zombie_detection_example](pics\zombies_3.png)
-![zombie_detection_example](pics\zombies_4.png)
-![zombie_detection_example](pics\zombies_5.png)
-![zombie_detection_example](pics\zombies_6.png)
-![zombie_detection_example](pics\zombies_7.png)
-![zombie_detection_example](pics\zombies_8.png)
+![zombie_detection_example](pics/zombies_1.png)
+![zombie_detection_example](pics/zombies_2.png)
+![zombie_detection_example](pics/zombies_3.png)
+![zombie_detection_example](pics/zombies_4.png)
+![zombie_detection_example](pics/zombies_5.png)
+![zombie_detection_example](pics/zombies_6.png)
+![zombie_detection_example](pics/zombies_7.png)
+![zombie_detection_example](pics/zombies_8.png)
 <video src="pics\zombies_detection_1.mp4" width="1280" height="720" controls>
 </video>
