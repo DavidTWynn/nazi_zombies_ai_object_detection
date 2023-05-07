@@ -1,4 +1,4 @@
-# data_visualization_project
+# Nazi Zombies AI Object Detection
 
 ![commits](https://badgen.net/github/commits/davidtwynn/nazi_zombies_ai_object_detection?icon=github&color=blue)
 ![Python version](https://img.shields.io/badge/python%20version-3.9.13-good)
@@ -10,6 +10,20 @@
 Experimenting with YOLOv8 Object Detection to detect objects in Call of Duty: World at War - Nazi Zombies. The current YOLOv8 model was only trained on Nacht der Untoten with about 843 training images and 94 validation images.
 
 Current model runs at about 20 FPS detecting zombies.
+
+# Tools used
+- YOLOv8 Ultralytics
+    - PyTorch 2.0.1
+    - CUDA 11.8
+- Win32 API for screenshots
+- OBS for screen recording
+- ffmpeg for splitting video into images
+- Label studio for drawing bounding boxes
+
+PC Specs
+- i7 4770k
+- GTX 980
+- 16GB RAM
 
 # First time setup
 
@@ -164,3 +178,13 @@ One of the issues was in labeling round numbers. The round 1 label sometimes pic
 ![zombie_detection_example](pics/zombies_8.png)
 
 https://user-images.githubusercontent.com/50935601/236658579-99b3c91c-0461-47fa-bb56-cb9d9e6fa3cf.mp4
+
+# Labeling
+
+Training was done in label studio. It seemed to be a nice editor.
+
+![label_studio](pics/label_studio_1.png)
+![label_studio](pics/label_studio_2.png)
+![label_studio](pics/label_studio_3.png)
+![label_studio](pics/label_studio_4.png)
+![label_studio](pics/label_studio_5.png)
