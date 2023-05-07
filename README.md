@@ -163,4 +163,4 @@ One of the issues was in labeling round numbers. The round 1 label sometimes pic
 ![zombie_detection_example](pics/zombies_7.png)
 ![zombie_detection_example](pics/zombies_8.png)
 
-<iframe src="https://player.vimeo.com/video/824452974?h=deeb3fad11&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/50935601/236658579-99b3c91c-0461-47fa-bb56-cb9d9e6fa3cf.mp4
